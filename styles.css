@@ -49,6 +49,7 @@ footer{
     flex-flow: row wrap;
     padding: 50px;
     color: #fff;
+    width: 100%;
     background-color: #010911;
 
  }
